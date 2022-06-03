@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Text-convertor/static/css/main.9ef41d84.css",
-    "main.js": "/Text-convertor/static/js/main.5b0210c1.js",
-    "static/js/787.a86796b9.chunk.js": "/Text-convertor/static/js/787.a86796b9.chunk.js",
-    "index.html": "/Text-convertor/index.html",
-    "main.9ef41d84.css.map": "/Text-convertor/static/css/main.9ef41d84.css.map",
-    "main.5b0210c1.js.map": "/Text-convertor/static/js/main.5b0210c1.js.map",
-    "787.a86796b9.chunk.js.map": "/Text-convertor/static/js/787.a86796b9.chunk.js.map"
+    "main.css": "/TextPros/static/css/main.9ef41d84.css",
+    "main.js": "/TextPros/static/js/main.ad55ef79.js",
+    "static/js/787.a86796b9.chunk.js": "/TextPros/static/js/787.a86796b9.chunk.js",
+    "index.html": "/TextPros/index.html",
+    "main.9ef41d84.css.map": "/TextPros/static/css/main.9ef41d84.css.map",
+    "main.ad55ef79.js.map": "/TextPros/static/js/main.ad55ef79.js.map",
+    "787.a86796b9.chunk.js.map": "/TextPros/static/js/787.a86796b9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9ef41d84.css",
-    "static/js/main.5b0210c1.js"
+    "static/js/main.ad55ef79.js"
   ]
 }
